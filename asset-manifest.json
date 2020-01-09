@@ -1,13 +1,13 @@
 {
-  "main.css": "/julianomoreira/post-it/static/css/main.4cb7af31.chunk.css",
-  "main.js": "/julianomoreira/post-it/static/js/main.ec6312d1.chunk.js",
-  "main.js.map": "/julianomoreira/post-it/static/js/main.ec6312d1.chunk.js.map",
-  "static/js/1.93649013.chunk.js": "/julianomoreira/post-it/static/js/1.93649013.chunk.js",
-  "static/js/1.93649013.chunk.js.map": "/julianomoreira/post-it/static/js/1.93649013.chunk.js.map",
-  "runtime~main.js": "/julianomoreira/post-it/static/js/runtime~main.8eb0fad7.js",
-  "runtime~main.js.map": "/julianomoreira/post-it/static/js/runtime~main.8eb0fad7.js.map",
-  "static/css/main.4cb7af31.chunk.css.map": "/julianomoreira/post-it/static/css/main.4cb7af31.chunk.css.map",
-  "index.html": "/julianomoreira/post-it/index.html",
-  "precache-manifest.3b0cfc0c68366b86ec4412122404680e.js": "/julianomoreira/post-it/precache-manifest.3b0cfc0c68366b86ec4412122404680e.js",
-  "service-worker.js": "/julianomoreira/post-it/service-worker.js"
+  "main.css": "/post-it/static/css/main.4cb7af31.chunk.css",
+  "main.js": "/post-it/static/js/main.94a879af.chunk.js",
+  "main.js.map": "/post-it/static/js/main.94a879af.chunk.js.map",
+  "static/js/1.93649013.chunk.js": "/post-it/static/js/1.93649013.chunk.js",
+  "static/js/1.93649013.chunk.js.map": "/post-it/static/js/1.93649013.chunk.js.map",
+  "runtime~main.js": "/post-it/static/js/runtime~main.a175086c.js",
+  "runtime~main.js.map": "/post-it/static/js/runtime~main.a175086c.js.map",
+  "static/css/main.4cb7af31.chunk.css.map": "/post-it/static/css/main.4cb7af31.chunk.css.map",
+  "index.html": "/post-it/index.html",
+  "precache-manifest.696ff5b7151c6f23bcbd8e200d4b366a.js": "/post-it/precache-manifest.696ff5b7151c6f23bcbd8e200d4b366a.js",
+  "service-worker.js": "/post-it/service-worker.js"
 }

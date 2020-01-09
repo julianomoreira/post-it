@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/julianomoreira/post-it/precache-manifest.3b0cfc0c68366b86ec4412122404680e.js"
+  "/post-it/precache-manifest.696ff5b7151c6f23bcbd8e200d4b366a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/julianomoreira/post-it/index.html", {
+workbox.routing.registerNavigationRoute("/post-it/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
