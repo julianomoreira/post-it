@@ -1,3 +1,7 @@
+# Post-It App
+
+This is a personal project with the intent to elevate my React skills and become more familiriazed with React conventions. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
